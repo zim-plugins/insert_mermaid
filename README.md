@@ -1,6 +1,6 @@
 # Insert Image from Mermaid
 
-This Zim plugin allow you to insert a Mermaid illustration.
+This [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki "Zim - A Desktop Wiki Editor") plugin allow you to insert a [Mermaid](https://github.com/mermaid-js/mermaid "Generation of diagram and flowchart from text in a similar manner as markdown") illustration in pages.
 
 # Installation
 
@@ -39,7 +39,7 @@ you will get the following image:
 
 ![Drag Racing](./data/mermaid.png)
 
-## but this is a workaround...
+# About the image size...
 
 We should use `mmdc --width 123 --height 456` to control the image size, but this command doesn't work as we expect. 
 
